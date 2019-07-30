@@ -6,7 +6,7 @@
 
 Implement Real-Time Semantic Segmentation with [Mask_RCNN](https://github.com/matterport/Mask_RCNN).
 
-![example](https://raw.githubusercontent.com/unxdigital/mask-rcnn/blob/master/example.gif)
+![example](https://raw.githubusercontent.com/unxdigital/mask-rcnn/master/example.gif)
 
 
 ## DEPENDENCIES
