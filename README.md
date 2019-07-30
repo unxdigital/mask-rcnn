@@ -36,6 +36,3 @@ MIT License
 
 Copyright (c) [2019] [UNX Digital]
 ```
-×
-Drag and Drop
-The image will be downloaded by Fatkun
