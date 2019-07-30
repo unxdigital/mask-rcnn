@@ -6,7 +6,8 @@
 
 Implement Real-Time Semantic Segmentation with [Mask_RCNN](https://github.com/matterport/Mask_RCNN).
 
-![multi-face-result](https://raw.githubusercontent.com/unx-digital/Age-Gender-CNN-TensorFlow/master/images/multiple-faces-result.png)
+![example](https://raw.githubusercontent.com/unxdigital/mask-rcnn/blob/master/example.gif)
+
 
 ## DEPENDENCIES
 This project has following dependencies and tested under OSX with Python 3.5. We use [virtualenv](https://virtualenv.pypa.io/en/latest/) to play safely with multiple Python versions.
