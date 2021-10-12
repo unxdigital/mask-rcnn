@@ -9,4 +9,4 @@ jupyter==1.0.0
 matplotlib==2.2.2
 imgaug==0.2.6
 IPython[all]
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
